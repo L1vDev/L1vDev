@@ -1,16 +1,29 @@
-## Hi there 👋
+![banner](./img/banner.png)
 
-<!--
-**L1vDev/L1vDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! 👋 I'm Liván Rodríguez Pérez</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+ <b> 💻Backend Developer </b> |<b> Linux User </b>| <b> AI/ML and Data Science Student💻</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+- 🔭 I’m currently working on **Python (Django)**
+- 🌱 I’m currently learning **React, FastApi, NodeJS and Docker**
+- ☁️ I've been interest in DevOps. So,I'm learning **Docker**
+- 🚀 Also interested in **AI/ML/DL and Data Science**
+
+# 💻 Tech Stack:
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,github,html,css,js,postgres,mongodb,mysql,linux,postman,vscode,docker&perline=14" />
+  </a>
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L1vDev&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
+
+
+
+
+<!---->

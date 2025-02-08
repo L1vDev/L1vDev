@@ -1,6 +1,5 @@
-<div align="center">
-![banner](./img/banner.png)
-</div>
+
+<div align="center">![banner](./img/banner.png)</div>
 
 <h1 align="center">Hi! 👋 I'm Liván Rodríguez Pérez</h1>
 

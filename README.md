@@ -21,10 +21,4 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L1vDev&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
-
-
-
-
 <!---->
